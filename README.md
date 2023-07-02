@@ -24,7 +24,6 @@ translation: Français translations/French.md
 
 Im Folgenden findest Du ein Quiz zu der Vorlesung zum Thema Informatikunterricht. Du kannst dein Wissen in diesem Quiz für dich selbst überprüfen.
 
-(Hier sind die Fragen jeweils auf getrennten Seiten.)
 
 ## Welche der folgenden Aspekte gehören zu Meyers 10 Kriterien für guten Unterricht?
 
